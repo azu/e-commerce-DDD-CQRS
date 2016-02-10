@@ -1,0 +1,32 @@
+{
+  "name": "e-commerce-ddd-cqrs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azu/e-commerce-DDD-CQRS.git"
+  },
+  "author": "azu",
+  "email": "azuciao@gmail.com",
+  "homepage": "https://github.com/azu/e-commerce-DDD-CQRS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/e-commerce-DDD-CQRS/issues"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "",
+  "devDependencies": {
+    "babel-loader": "^6.2.2",
+    "json-loader": "^0.5.4",
+    "webpack": "^1.12.13"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  }
+}
